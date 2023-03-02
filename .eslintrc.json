@@ -9,6 +9,7 @@
   },
   "extends": [
     "next/core-web-vitals",
+    "plugin:tailwind/recommended",
     "prettier",
     "plugin:prettier/recommended"
   ],
